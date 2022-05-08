@@ -1,30 +1,3 @@
-Skip to content
-        Search or jump to…
-Pull requests
-Issues
-        Marketplace
-Explore
-
-@hsemmzykin
-        DiGarOn
-/
-parellel_matrix
-        Public
-Code
-        Issues
-Pull requests
-Actions
-        Projects
-Wiki
-        Security
-Insights
-        parellel_matrix/main.cpp
-
-        Dmitriy Garkin ready
-Latest commit 838b6f0 6 days ago
-History
-0 contributors
-675 lines (603 sloc)  16.4 KB
 
 #include <iostream>
 #include <fstream>
@@ -696,16 +669,3 @@ int main() {
     e.print_to_file(&out);
     return 0;
 }
-© 2022 GitHub, Inc.
-Terms
-        Privacy
-Security
-        Status
-Docs
-        Contact GitHub
-        Pricing
-API
-        Training
-Blog
-        About
-Loading complete
